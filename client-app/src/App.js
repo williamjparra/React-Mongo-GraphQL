@@ -7,9 +7,9 @@ import './App.css';
 
 import MenuBar from './components/MenuBar'
 //components
-import Login from './components/Login'
-import Home from './components/Home'
-import Register from './components/Register'
+import Login from './pages/Login'
+import Home from './pages/Home'
+import Register from './pages/Register'
 
 function App() {
   return (
